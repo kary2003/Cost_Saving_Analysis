@@ -80,8 +80,7 @@ How will my data help me solve this problem?
 
 Who needs my company’s product or service? What type of person is most likely to use it?
 
-Icon of an arrow with the word share
-Step 5: Share
+# Step 5: Share
 Everyone shares their results differently so be sure to summarize your results with clear and enticing visuals of your analysis using data viz tools like graphs or dashboards. This is your chance to show the stakeholders you have solved their problem and how you got there. Sharing will certainly help your team:  
 
 Make better decisions
@@ -97,8 +96,7 @@ How can I make what I present to the stakeholders engaging and easy to understan
 
 What would help me understand this if I were the listener?
 
-Icon of finger pressing on a button with the word act
-Step 6: Act
+# Step 6: Act
 Now it’s time to act on your data. You will take everything you have learned from your data analysis and put it to use. This could mean providing your stakeholders with recommendations based on your findings so they can make data-driven decisions.
 
 Questions to ask yourself in this step:
